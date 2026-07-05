@@ -10,7 +10,7 @@ Acceso a **datos, metadatos, checksums y documentación** del dataset: tarjeta d
 
 **El dataset completo YOLO (imágenes y etiquetas) y el archivo `.bag` se distribuyen mediante OneDrive público**, no a través de este repositorio, debido a su tamaño:
 
-- **Enlace OneDrive:** `[PEGAR_AQUI_EL_ENLACE_REAL_DE_ONEDRIVE]`
+- **Enlace OneDrive:** <https://correoipn-my.sharepoint.com/:f:/g/personal/rrevelesm_ipn_mx/IgCiyaKrIn8QS7AkDMn75sorAT_U_HqmV9DvqAq2b6vq5Pg?e=xB7MCG>
 - **DOI Zenodo:** DOI pending / To be added after Zenodo deposition
 
 ## Qué NO contiene este repositorio
