@@ -20,7 +20,11 @@ license: CC-BY-4.0
 license-url: "LICENSE_DATA.md"
 version: "1.0"
 date-released: "2026-07-05"
-# doi: pending — add once Zenodo mints a DOI for this release; do not invent one.
+doi: 10.5281/zenodo.21209356
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21209356"
+    description: "Zenodo archival record for this dataset release."
 keywords:
   - object detection
   - YOLO

@@ -54,3 +54,7 @@ Coordinates normalized to image width/height. Class `0` is the only class (`bott
 ## License
 
 Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE_DATA.md` for the full statement and `CITATION.cff` for citation details.
+
+## Citation / DOI
+
+Zenodo archival release DOI: [10.5281/zenodo.21209356](https://doi.org/10.5281/zenodo.21209356). See `CITATION.cff`.
