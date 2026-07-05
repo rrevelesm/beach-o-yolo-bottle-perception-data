@@ -15,7 +15,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-6075-1242"
   # TODO: complete the remaining authors once the manuscript's final,
   # non-placeholder author list is confirmed.
-repository-code: "https://github.com/rrevelesm/beach-o-yolo-bottle-perception"
+repository-code: "https://github.com/rrevelesm/beach-o-yolo-bottle-perception-data"
 license-url: "LICENSE_DATA.md"
 version: "1.0"
 date-released: "2026-07-05"
