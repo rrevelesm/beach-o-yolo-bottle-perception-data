@@ -2,7 +2,10 @@
 
 ## Location
 
-Controlled sandy-terrain test area within COZCyT, used to emulate the visual conditions of the beach-cleaning scenario (sandy background, outdoor-like lighting).
+The RealSense BAG sequence `20241128_133505.bag` was recorded at Zigzag, the interactive science and technology center associated with COZCyT (Consejo Zacatecano de Ciencia, Tecnología e Innovación) in Zacatecas, Mexico, using a controlled sandy-terrain test area to emulate beach-cleaning visual conditions (sandy background, outdoor-like lighting).
+
+- Zigzag: <https://zigzag.gob.mx/>
+- COZCyT: <https://www.zacatecas.gob.mx/gobierno/dependencias/cozcyt/>
 
 ## Acquisition pattern
 

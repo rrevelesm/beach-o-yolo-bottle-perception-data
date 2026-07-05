@@ -14,7 +14,10 @@ Intel RealSense RGB stream (RealSense depth camera family; only the RGB stream i
 
 ## Acquisition environment
 
-Controlled sandy-terrain test area at COZCyT, used to emulate the visual conditions of the beach-cleaning scenario (sandy background, a single bottle target).
+The RealSense BAG sequence `20241128_133505.bag` and the associated image dataset were recorded at Zigzag, the interactive science and technology center associated with COZCyT (Consejo Zacatecano de Ciencia, Tecnología e Innovación) in Zacatecas, Mexico, using a controlled sandy-terrain test area to emulate the visual conditions of the beach-cleaning scenario (sandy background, a single bottle target).
+
+- Zigzag: <https://zigzag.gob.mx/>
+- COZCyT: <https://www.zacatecas.gob.mx/gobierno/dependencias/cozcyt/>
 
 ## Acquisition pattern
 
@@ -45,7 +48,7 @@ Coordinates normalized to image width/height. Class `0` is the only class (`bott
 
 ## Known limitations
 
-- **Single environment**: all images originate from one controlled test area (COZCyT sandy terrain), not multiple real beaches.
+- **Single environment**: all images originate from one controlled test area (Zigzag/COZCyT sandy terrain), not multiple real beaches.
 - **Sandy background**: visual domain is limited to sand-colored background; generalization to other substrates (rocks, vegetation, pavement, wet sand, etc.) is untested.
 - **Single bottle target / narrow domain**: acquisition used one bottle prop; generalization to other bottle types, colors, materials, or partially crushed/deformed bottles is untested.
 - **BAG replay without frame-level ground truth**: the accompanying `.bag` recording (see `bags/README_BAGS.md`) has no per-frame bounding-box ground truth; it supports qualitative/activity-level offline evaluation (detection counts, confidence, timing), not frame-by-frame accuracy measurement.

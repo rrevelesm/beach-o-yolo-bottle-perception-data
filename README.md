@@ -6,6 +6,13 @@ Este repositorio documenta el **Beach-O YOLO Bottle Perception Dataset**: un dat
 
 Acceso a **datos, metadatos, checksums y documentación** del dataset: tarjeta del dataset (`DATASET_CARD.md`), descripción del formato de anotación, reporte de auditoría de etiquetas, notas de adquisición, mapeo de clases, CSVs resumen, manifiestos SHA256 de integridad, y una pequeña muestra de vista previa (`sample_preview/`).
 
+## Sitio de adquisición
+
+The RealSense BAG sequence `20241128_133505.bag` was recorded at Zigzag, the interactive science and technology center associated with COZCyT in Zacatecas, Mexico, using a controlled sandy-terrain test area to emulate beach-cleaning visual conditions.
+
+- Zigzag: <https://zigzag.gob.mx/>
+- COZCyT: <https://www.zacatecas.gob.mx/gobierno/dependencias/cozcyt/>
+
 ## Dónde están los datos completos
 
 **El dataset completo YOLO (imágenes y etiquetas) y el archivo `.bag` se distribuyen mediante OneDrive público**, no a través de este repositorio, debido a su tamaño:
