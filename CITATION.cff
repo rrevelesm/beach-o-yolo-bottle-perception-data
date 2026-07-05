@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: >-
+  If you use this dataset, please cite the accompanying Robotics manuscript
+  once it is published. This file will be updated with the final author
+  list, DOI, and publication date at that time — the manuscript's author
+  list was still being finalized at the time this dataset was packaged, so
+  it is intentionally left incomplete here rather than guessed.
+title: >-
+  Beach-O YOLO Bottle Perception Dataset (sequence-aware, leakage-free
+  split)
+type: dataset
+authors:
+  - family-names: Reveles-Martínez
+    given-names: Rafael
+    orcid: "https://orcid.org/0000-0001-6075-1242"
+  # TODO: complete the remaining authors once the manuscript's final,
+  # non-placeholder author list is confirmed.
+repository-code: "https://github.com/rrevelesm/beach-o-yolo-bottle-perception"
+license-url: "LICENSE_DATA.md"
+version: "1.0"
+date-released: "2026-07-05"
+keywords:
+  - object detection
+  - YOLO
+  - bottle detection
+  - beach cleaning
+  - RealSense
+  - robotics
+  - dataset

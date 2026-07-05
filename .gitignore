@@ -1,0 +1,20 @@
+*.bag
+# NOTE: a blanket "dataset_yolo/" ignore would also block
+# dataset_yolo/README_YOLO_FORMAT.md from ever being tracked (git cannot
+# re-include a file whose parent directory is fully excluded). These two
+# patterns keep the same intent (never track the heavy images/labels) while
+# still allowing the format README.
+dataset_yolo/train/
+dataset_yolo/val/
+dataset_yolo/*.cache
+bags/*.bag
+*.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pt
+*.onnx
+*.torchscript
+*.engine
+.DS_Store
+Thumbs.db

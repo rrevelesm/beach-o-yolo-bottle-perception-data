@@ -1,0 +1,2 @@
+filename,size_bytes,sha256,description,included_in_public_onedrive
+20241128_133505.bag,4784190529,6f66919fa570b935d53e66f7bd90c923a1ed7b3415297eaa706b27ef76123a34,RealSense RGB recording used for offline BAG replay evaluation of the yolo11n_bottle detector (COZCyT sandy-terrain zigzag acquisition),yes

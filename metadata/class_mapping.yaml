@@ -1,0 +1,4 @@
+# Class mapping for the bottle-detection YOLO dataset (one-class task).
+nc: 1
+names:
+  0: bottle
