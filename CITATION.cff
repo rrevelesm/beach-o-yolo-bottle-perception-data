@@ -16,9 +16,11 @@ authors:
   # TODO: complete the remaining authors once the manuscript's final,
   # non-placeholder author list is confirmed.
 repository-code: "https://github.com/rrevelesm/beach-o-yolo-bottle-perception-data"
+license: CC-BY-4.0
 license-url: "LICENSE_DATA.md"
 version: "1.0"
 date-released: "2026-07-05"
+# doi: pending — add once Zenodo mints a DOI for this release; do not invent one.
 keywords:
   - object detection
   - YOLO

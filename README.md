@@ -63,4 +63,7 @@ Ver `CITATION.cff`.
 
 ## Licencia
 
-Ver `LICENSE_DATA.md` (licencia de datos pendiente de selección).
+**License: Creative Commons Attribution 4.0 International (CC BY 4.0)**
+**URL:** https://creativecommons.org/licenses/by/4.0/
+
+Ver `LICENSE_DATA.md` para el texto completo y `CITATION.cff` para detalles de citación.

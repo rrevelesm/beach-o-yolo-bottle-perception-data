@@ -50,3 +50,7 @@ Coordinates normalized to image width/height. Class `0` is the only class (`bott
 - **Single bottle target / narrow domain**: acquisition used one bottle prop; generalization to other bottle types, colors, materials, or partially crushed/deformed bottles is untested.
 - **BAG replay without frame-level ground truth**: the accompanying `.bag` recording (see `bags/README_BAGS.md`) has no per-frame bounding-box ground truth; it supports qualitative/activity-level offline evaluation (detection counts, confidence, timing), not frame-by-frame accuracy measurement.
 - **Not evidence of closed-loop robot autonomy**: this dataset and the BAG recording support an **offline** visual-perception evaluation only. They do not constitute evidence of autonomous navigation, closed-loop robot control, or physical waste-collection success.
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE_DATA.md` for the full statement and `CITATION.cff` for citation details.
